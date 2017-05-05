@@ -1,0 +1,43 @@
+{"user": "eedf4p4c0l4ci","posx": 100,"posy": 100}
+
+
+// From Server  {Fresh login} {continued update}
+{"updateType":"refresh","updateContent": [
+				{"user": "eedf4p4c0l4ci","posx": 120,"posy": 143,"lastUpdate": "2017-05-02T20:54:11.574Z"},
+				{"user": "eedf4p4c0l4ci","posx": 120,"posy": 143,"lastUpdate": "2017-05-02T20:54:11.574Z"}
+	 ],"updateTime":"2017-04-17T19:49:39.967Z"}
+
+// To Server
+{
+	"type":"connect",
+	"msg": {
+		"user": "eedf4p4c0l4ci",
+		"posx": 100,
+		"posy": 100,
+		"lastUpdate": "-1000000000-01-01T00:00:00Z"
+	}
+}
+
+{"type":"connect","msg": {"user": "4ufjra1261iar","posx":92.96875,"posy":87.5,"lastUpdate": "-1000000000-01-01T00:00:00Z"}}
+
+
+{
+	"type":"update",
+	"msg": {
+		"user": "eedf4p4c0l4ci",
+		"posx": 100,
+		"posy": 100,
+		"lastUpdate": "-1000000000-01-01T00:00:00Z"
+	}
+}
+
+{
+	"type":"disconnect",
+	"msg": {
+		"user": "eedf4p4c0l4ci",
+		"posx": 100,
+		"posy": 100,
+		"lastUpdate": "-1000000000-01-01T00:00:00Z"
+	}
+}
+
